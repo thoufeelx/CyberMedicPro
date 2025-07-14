@@ -67,7 +67,7 @@ python3 main.py
 
 Requires active internet to install missing Linux tools during first scan
 
-Windows version is UI-only (no system command execution)
+🔒 Windows version currently supports UI only (no system-level execution). Linux version fully supported.
 
 If sounds don’t play, ensure pygame is installed and volume is up
 
