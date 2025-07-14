@@ -1,4 +1,0 @@
-# Core GUI + threading + system info
-PyQt5>=5.15
-psutil>=5.8
-pygame
