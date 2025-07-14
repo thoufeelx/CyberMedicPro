@@ -14,8 +14,10 @@
 
 - ## 📸 Screenshots
 
-
-
+![home](assets/1.png)
+![scan interface](assets/3.png)
+![scan result](assets/2.png)
+![custom](assets/4.png)
 
 ## ⚙️ Installation
 
@@ -51,7 +53,7 @@ sudo apt install -y \
 python3 main.py
 
 
-💡 Usage Tips
+## 💡 Usage Tips
 
 🔐 Linux will ask for sudo password (in GUI)
 
@@ -61,7 +63,7 @@ python3 main.py
 
 ✅ Output shown in hacker-style terminal inside the app
 
-Known Issues
+## Known Issues
 
 Requires active internet to install missing Linux tools during first scan
 
@@ -69,7 +71,7 @@ Windows version is UI-only (no system command execution)
 
 If sounds don’t play, ensure pygame is installed and volume is up
 
-🧠 Made With
+## 🧠 Made With
 
 Python 3
 
@@ -79,7 +81,7 @@ QSoundEffect / Pygame mixer
 
 System Tools (rkhunter, chkrootkit, clamav, sysbench, smartctl)
 
-📜 License
+# 📜 License
 MIT License © [R Muhammed Thoufeel]
 
 
